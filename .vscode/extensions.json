@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "mgmcdermott.vscode-language-babel",
+    "editorconfig.editorconfig",
+    "ofhumanbondage.react-proptypes-intellisense",
+    "styled-components.vscode-styled-components"
+  ]
+}
