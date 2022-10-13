@@ -1,6 +1,6 @@
 # Dynamic Viewport Demo
 
-Some browsers have a dyanmic viewport. For example, iOS Safari hides the address bar when scrolling, affecting the viewport height. This is a well document problem with using viewport units for CSS sizing. This repo explores the available [viewport sizes](https://developer.mozilla.org/en-US/docs/Web/CSS/length#relative_length_units_based_on_viewport) (`v*`, `sv*`, `lv*`, and `dv*`). [Try out the demo on your phone!](https://jtaavola.github.io/dynamic-viewport-demo).
+Some browsers have a dyanmic viewport. For example, iOS Safari hides the address bar when scrolling, affecting the viewport height. This is a well document problem when using viewport units for CSS sizing. This repo explores the available [viewport sizes](https://developer.mozilla.org/en-US/docs/Web/CSS/length#relative_length_units_based_on_viewport) (`v*`, `sv*`, `lv*`, and `dv*`). [Try out the demo on your phone!](https://jtaavola.github.io/dynamic-viewport-demo).
 
 <p>
   <img src="https://user-images.githubusercontent.com/46852381/195477091-9757cd66-1d8c-4dd1-9cdb-5204f5ffebcf.jpeg" alt="using 100vh" width="200"/>
