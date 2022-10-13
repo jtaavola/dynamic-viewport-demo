@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/dynamic-viewport-demo/static/js/main.f0063f9e.js",
+    "static/js/787.ca07e48c.chunk.js": "/dynamic-viewport-demo/static/js/787.ca07e48c.chunk.js",
+    "index.html": "/dynamic-viewport-demo/index.html",
+    "main.f0063f9e.js.map": "/dynamic-viewport-demo/static/js/main.f0063f9e.js.map",
+    "787.ca07e48c.chunk.js.map": "/dynamic-viewport-demo/static/js/787.ca07e48c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f0063f9e.js"
+  ]
+}
