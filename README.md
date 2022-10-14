@@ -18,7 +18,7 @@ Some browsers have a dyanmic viewport. For example, iOS Safari hides the address
 
 ### `npm install`
 
-Install necessary packages.
+Installs necessary packages.
 
 ### `npm start`
 
